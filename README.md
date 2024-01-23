@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! 👋
+
+I am a tech enthusiast with a strong understanding of *Cyber Security* and *Cloud Computing. I have hands-on experience with **AWS Technical Essentials* and *Google Computing Engine*, which has equipped me with a broad understanding of cloud services and their applications.
+
+My knowledge extends to the domain of *Project Management*, where I apply my technical skills to ensure efficient and effective execution of projects. I am always eager to learn and adapt to new technologies and challenges in the ever-evolving tech landscape
